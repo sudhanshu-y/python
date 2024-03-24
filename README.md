@@ -1,10 +1,10 @@
 # python
 
-## 0-basics.ipynb
-## 1-string.ipynb
-## 2-list.ipynb
-## 3-tuple-set-disctonary.ipynb
-## 4-exception.ipynb
+## 0_basics.ipynb
+## 1_string.ipynb
+## 2_list.ipynb
+## 3_tuple_set_disctonary.ipynb
+## 4_exception.ipynb
 
 ## data_structures
     linked-list 
